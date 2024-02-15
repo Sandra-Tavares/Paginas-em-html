@@ -1,0 +1,29 @@
+.container_h1 {
+    color: rgb(229, 73, 16); 
+    font-size: x-large; 
+  }
+  .container_h2 {
+    color: rgb(229, 73, 16); 
+    font-size: large; 
+  }
+  
+  .container_foto {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom:  40px; 
+    
+  }
+  .container_foto img {
+    width: 250px;
+    border: 4px solid red;
+  }
+  .container_foto .texto {
+    flex: 1;
+    margin-left: 20px; 
+    text-align: left;
+  
+  }
+  .container_ilustracao img {
+    width: 600px;
+  }
